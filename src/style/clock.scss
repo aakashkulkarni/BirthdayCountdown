@@ -24,7 +24,7 @@
         font-size: 18px;
         line-height: 35px;
         color: $color-yellow-one;
-        font-family: 'Roboto Condensed';
+        font-family: $font-roboto;
         margin-top: 10px;
     }
 
@@ -33,7 +33,7 @@
         font-weight: bold;
         line-height: 75px;
         color: white;
-        font-family: 'Roboto Condensed';
+        font-family: $font-roboto;
     }
 
     &__box {

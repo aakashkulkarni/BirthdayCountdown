@@ -6,6 +6,7 @@
     color: $color-gray-one;
     padding-bottom: 50px;
     justify-self: center;
+    align-self: end;
 
     input {
         font-size: 80px;
@@ -15,7 +16,7 @@
         border: none;
         background-color: transparent;
         border-bottom: 2px solid #e3b924;
-        font-family: 'Roboto Condensed';
+        font-family: $font-roboto;
         &:focus {
             outline: none;
         }
